@@ -1,0 +1,4 @@
+Sitemap: https://2022.school.pymor.org/sitemapindex.xml
+
+User-Agent: *
+Host: 2022.school.pymor.org
