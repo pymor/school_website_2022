@@ -1,0 +1,55 @@
+## -*- coding: utf-8 -*-
+<%namespace name="base" file="base_helper.tmpl" import="*"/>
+
+<%def name="html_header()">
+${html_site_title()}
+${html_navigation_links()}
+</%def>
+
+<%def name="html_site_title()">
+  <div class="header-table">
+    <div class="header-logo header-col">
+      <img src="${header_logo}" alt="Header Logo">
+    </div><!-- /.header-logo -->
+    <div class="header-title header-col">
+
+      <h1 id="brand"><a href="${abs_link(_link("root", None, lang))}" title="${blog_title}" rel="home">
+      ${blog_title}</a></h1>
+
+    </div><!-- /.header-title -->
+  </div><!-- /.header-title -->
+</%def>
+
+<%def name="html_navigation_links()">
+  <div >
+    <nav role="navigation">
+
+    <ul>
+    %for url, text in navigation_links[lang]:
+        % if isinstance(url, tuple):
+            <li>
+                <a href="#">${text}</a>
+                <ul >
+                %for suburl, text in url:
+                    <li><a href="${suburl}">${text}</a></li>
+                %endfor
+                </ul>
+        % else:
+            <li><a href="${url}">${text}</a></li>
+        % endif
+    %endfor
+    ${template_hooks['menu']()}
+    ${template_hooks['menu_alt']()}
+    </ul>
+    </nav>
+  </div>
+</%def>
+
+<%def name="html_translation_header()">
+    %if len(translations) > 1:
+        <div id="toptranslations">
+            <h2>${messages("Languages:")}</h2>
+            ${base.html_translations()}
+        </div>
+    %endif
+</%def>
