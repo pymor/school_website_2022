@@ -1,5 +1,4 @@
-# 2022 MaRDI Workshop Website
-
+# pyMOR School 2022 Website
 
 ## Building locally
 
@@ -10,8 +9,7 @@ python3 -m pip install -r requirements.txt
 nikola auto --browser
 ```
 
+## GitHub Pages deployment
 
-## Github Pages deployment
-
-- currently happens on every push via .github/workflows/deploy.yml
-- Live site reachable at https://2022.school.pymor.org
+- currently happens on every push via `.github/workflows/deploy.yml`
+- live site reachable [here](https://2022.school.pymor.org)
