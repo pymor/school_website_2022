@@ -13,7 +13,7 @@
 
 The pyMOR School will take place from Monday at 14:00 to Friday at 12:00 (August
 22-26).
-Lectures will take place in the seminar room Wiener (V0.05-1) and
+Lectures will take place in the seminar room Prigogine (V0.05-2/3) and
 programming sessions in the training room (S0.02).
 
 The timetable is given below.
