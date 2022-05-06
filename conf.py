@@ -25,7 +25,7 @@ SITE_URL = "https://2022.school.pymor.org/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://WORKSHOP_URL/"
 BLOG_EMAIL = "school@pymor.org"
-BLOG_DESCRIPTION = "4th pyMOR School"  # (translatable)
+BLOG_DESCRIPTION = "pyMOR School 2022"  # (translatable)
 
 # Nikola is multilingual!
 #
