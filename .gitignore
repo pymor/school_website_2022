@@ -152,5 +152,6 @@ cython_debug/
 
 # nikola output
 .doit.db
+.doit.db.*
 cache/
 output/
