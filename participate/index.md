@@ -10,13 +10,19 @@
 .. hidetitle: True
 -->
 
-There will be no fee to participate in the workshop.
+# Fee
+
+There will be no fee to participate in the school.
 Only transport and accomodation need to be paid by the participant.
 
 # Register
 
-Regsitration will open soon.
+Please use the [Indico page](https://indico3.mpi-magdeburg.mpg.de/event/25/) to
+register.
+
+Registration will open soon.
 
 # Contact
 
-If you have any questions or suggestions please email [school@pymor.org](mailto:school@pymor.org)
+If you have any questions or suggestions,
+please email [school@pymor.org](mailto:school@pymor.org)
