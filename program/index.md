@@ -44,7 +44,7 @@ we encourage you to bring your own problem to work on.
 | 15:30 - 16:00 | Coffee break |
 | 16:00 - 19:00 | Interactive session |
 
-## Day 3 - Tuesday, August 24, 2022
+## Day 3 - Wednesday, August 24, 2022
 
 | Time | Activity |
 | ---- | -------- |
@@ -56,7 +56,7 @@ we encourage you to bring your own problem to work on.
 | 15:30 - 16:00 | Coffee break |
 | 16:00 - 19:00 | Interactive session |
 
-## Day 4 - Tuesday, August 25, 2022
+## Day 4 - Thursday, August 25, 2022
 
 | Time | Activity |
 | ---- | -------- |
@@ -68,7 +68,7 @@ we encourage you to bring your own problem to work on.
 | 15:30 - 16:00 | Coffee break |
 | 16:00 - 19:00 | Interactive session |
 
-## Day 5 - Tuesday, August 26, 2022
+## Day 5 - Friday, August 26, 2022
 
 | Time | Activity |
 | ---- | -------- |
