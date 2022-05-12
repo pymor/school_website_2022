@@ -22,7 +22,8 @@ but there are plenty of free online resources to learn the basics before the
 start of the School:
 
 - for inexperienced programmers:
-    - [https://link.springer.com/book/10.1007/978-3-319-32428-9](https://link.springer.com/book/10.1007/978-3-319-32428-9)
+    - [https://link.springer.com/book/10.1007/978-3-030-16877-3](https://link.springer.com/book/10.1007/978-3-030-16877-3)
+    - [https://link.springer.com/book/10.1007/978-3-030-50356-7](https://link.springer.com/book/10.1007/978-3-030-50356-7)
     - [https://python.swaroopch.com/](https://python.swaroopch.com/)
     - [https://greenteapress.com/wp/think-python-2e/](https://greenteapress.com/wp/think-python-2e/)
     - [https://automatetheboringstuff.com/](https://automatetheboringstuff.com/)
