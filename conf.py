@@ -1410,6 +1410,7 @@ GLOBAL_CONTEXT = {
     "FOOTER_LOGOS": [
         ("/images/MM_Logo_2018_rgb.svg", "Münster Mathematics"),
         ("/images/mpi_magdeburg.svg", "Max Planck Institute Magdeburg"),
+        ("/images/vt_math.svg", "Virginia Tech Department of Mathematics"),
     ],
 }
 
