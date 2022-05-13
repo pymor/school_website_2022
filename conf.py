@@ -17,7 +17,7 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "school@pymor.org"  # (translatable)
-BLOG_TITLE = "School 2022"  # (translatable)
+BLOG_TITLE = "pyMOR School 2022"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://2022.school.pymor.org/"
@@ -927,10 +927,10 @@ IMAGE_FOLDERS = {"images": "images"}
 # FAVICONS contains (name, file, size) tuples.
 # Used to create favicon link like this:
 # <link rel="name" href="file" sizes="size"/>
-# FAVICONS = (
-#     ("icon", "/favicon.ico", "16x16"),
-#     ("icon", "/icon_128x128.png", "128x128"),
-# )
+FAVICONS = (
+    ("icon", "/images/favicon-16x16.png", "16x16"),
+    ("icon", "/images/favicon-32x32.png", "32x32"),
+)
 
 # Show teasers (instead of full posts) in indexes? Defaults to False.
 # INDEX_TEASERS = False
