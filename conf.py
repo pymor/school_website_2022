@@ -17,7 +17,7 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "school@pymor.org"  # (translatable)
-BLOG_TITLE = "School 2022"  # (translatable)
+BLOG_TITLE = "pyMOR School 2022"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://2022.school.pymor.org/"

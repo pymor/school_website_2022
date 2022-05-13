@@ -1,5 +1,5 @@
 <!--
-.. title: pyMOR School 2022
+.. title: Home
 .. slug: index
 .. date: 2022-03-02 14:46:31 UTC+01:00
 .. tags:
