@@ -1,5 +1,5 @@
 <!--
-.. title: Home
+.. title: Welcome
 .. slug: index
 .. date: 2022-03-02 14:46:31 UTC+01:00
 .. tags:
@@ -10,16 +10,23 @@
 .. pagekind: main_index
 -->
 
-<h2>
+<h1>
+pyMOR School 2022<br>
 August 22-26, 2022<br>
-Max Planck Institute for Dynamics of Complex Technical Systems<br>
+Max Planck Institute for Dynamics of Complex Technical Systems,
 Magdeburg, Germany
-</h2>
+</h1>
 
 The fourth pyMOR School will be held at the MPI Magdeburg in August 2022 from
 Monday 22nd till Friday 26th.
 
-### Previous editions
+## COVID-19 Information
+
+This page will be updated in August with the latest regulations.
+
+There will be an online option.
+
+## Previous Editions
 
 1. [Magdeburg (2019)](https://2019.school.pymor.org/)
 2. [Online (2020)](https://2020.school.pymor.org/)

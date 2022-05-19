@@ -15,6 +15,9 @@ The pyMOR School will take place
 from Monday at 14:00 to Friday at 12:00 (August 22-26)
 in the seminar room Prigogine (V0.05-2/3).
 
+The timetable will be adapted based on the information provided by the
+participants during registration.
+
 # Introduction to Python
 
 Note that we are not planning to give an introduction to Python/NumPy/SciPy,
