@@ -40,6 +40,10 @@ Here are some hotel/hostel options in Magdeburg:
     - Otto-von-Guericke-Straße 34, 39104 Magdeburg
     - 2.5 km to MPI Magdeburg
     - [Google Maps route](https://goo.gl/maps/5oAePs5FSYM2)
+- [Ibis Style Magdeburg](https://all.accor.com/hotel/B280/index.en.shtml)
+    - Julius-Bremer-Straße 15, 39104 Magdeburg
+    - 1.7 km to MPI Magdeburg
+    - [Google Maps route](https://goo.gl/maps/CNMDjRRo34scJLBS8)
 - [Motel One Magdeburg](http://www.motel-one.com/de/hotels/magdeburg/hotel-magdeburg/)
     - Domplatz 5, 39104 Magdeburg
     - 1.9 km to MPI Magdeburg
