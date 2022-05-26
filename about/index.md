@@ -76,7 +76,6 @@ The pyMOR School 2022 is organized by:
 
 - Linus Balicki (Virginia Tech)
 - René Fritze (WWU Münster)
-- Tim Keil (WWU Münster)
 - Hendrik Kleikamp (WWU Münster)
 - Petar Mlinarić (Virginia Tech)
 - Stephan Rave (WWU Münster)

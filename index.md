@@ -24,7 +24,7 @@ Monday 22nd till Friday 26th.
 
 This page will be updated in August with the latest regulations.
 
-There will be an online option.
+The lectures will be streamed for online participants.
 
 ## Previous Editions
 
