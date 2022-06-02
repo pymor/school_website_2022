@@ -19,7 +19,6 @@ Only transport and accomodation need to be paid by the participant.
 
 Please use the [Indico page](https://indico3.mpi-magdeburg.mpg.de/event/25/) to
 register.
-Registration will open soon.
 The registration deadline is July 22, 2022.
 
 # Contact
