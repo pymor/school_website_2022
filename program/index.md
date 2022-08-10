@@ -18,6 +18,11 @@ in the seminar room Prigogine (V0.05-2/3).
 The timetable is available on the
 [Indico page](https://indico3.mpi-magdeburg.mpg.de/event/25/timetable/#all).
 
+# Materials
+
+The lectures and exercises are available in the
+[GitHub repository](https://github.com/pymor/2022_pymor_school).
+
 # Introduction to Python
 
 Note that we are not planning to give an introduction to Python/NumPy/SciPy,
