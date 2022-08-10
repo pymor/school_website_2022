@@ -15,8 +15,8 @@ The pyMOR School will take place
 from Monday at 14:00 to Friday at 12:00 (August 22-26)
 in the seminar room Prigogine (V0.05-2/3).
 
-The timetable will be adapted based on the information provided by the
-participants during registration.
+The timetable is available on the
+[Indico page](https://indico3.mpi-magdeburg.mpg.de/event/25/timetable/#all).
 
 # Introduction to Python
 
