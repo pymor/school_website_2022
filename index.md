@@ -22,9 +22,15 @@ Monday 22nd till Friday 26th.
 
 ## COVID-19 Information
 
-This page will be updated in August with the latest regulations.
+The event will operate in a hybrid format,
+with the "Zero G" model for in-person participants:
 
-The lectures will be streamed for online participants.
+- face coverings do not need to be worn at the fixed workstation,
+  if a distance of >1.5m is guaranteed,
+- no evidence required whether vaccinated, recovered or tested.
+
+The information on virtual participation will be sent by email to registered
+participants.
 
 ## Previous Editions
 
