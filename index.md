@@ -26,8 +26,10 @@ The event will operate in a hybrid format,
 with the "Zero G" model for in-person participants:
 
 - face coverings do not need to be worn at the fixed workstation,
-  if a distance of >1.5m is guaranteed,
-- no evidence required whether vaccinated, recovered or tested.
+  if a distance of >1.5m is guaranteed
+  (which is true for the lecture room),
+- no evidence required whether vaccinated, recovered or tested
+  (although testing is encouraged).
 
 The information on virtual participation will be sent by email to registered
 participants.
