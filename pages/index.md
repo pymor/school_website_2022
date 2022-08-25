@@ -39,3 +39,8 @@ participants.
 1. [Magdeburg (2019)](https://2019.school.pymor.org/)
 2. [Online (2020)](https://2020.school.pymor.org/)
 3. [Münster (2021)](https://2021.school.pymor.org/)
+
+
+## Conference Photo
+
+<img src="/images/group_2022.png">
